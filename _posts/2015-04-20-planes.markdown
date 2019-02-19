@@ -1,6 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "Birthday Cake"
+subtitle: "It is for you"
 author: "Fei"
 avatar: "img/authors/wferr.png"
 image: "img/aa.jpg"
