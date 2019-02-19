@@ -3,7 +3,7 @@ title:  "The best prize"
 subtitle: "is having you by my side"
 author: "Fei"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
+image: "img/cc.jpg"
 date:   2019-02-19 12:12:10
 ---
 
