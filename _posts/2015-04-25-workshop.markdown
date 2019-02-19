@@ -3,7 +3,7 @@ title:  "The most beautiful girl in the world!"
 subtitle: "And in her smile I see something more beautiful than the stars."
 author: "Fei"
 avatar: "img/authors/wferr.png"
-image: "img/f.jepg"
+image: "img/f.jpg"
 date:   2019-02-19 20:12:12
 ---
 
