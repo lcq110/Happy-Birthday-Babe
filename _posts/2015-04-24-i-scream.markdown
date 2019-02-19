@@ -1,7 +1,7 @@
 ---
 title:  "Holding you hand"
 subtitle: "just like holding the whole world"
-author: "Wferr"
+author: "Fei"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
 date:   2015-04-24 12:12:12
@@ -10,4 +10,4 @@ date:   2015-04-24 12:12:12
 <img src="https://www.goodmorningquote.com/wp-content/uploads/2015/03/inspirational-romantic-quots-for-her-1.jpg">
 
 ### 宝贝你是我的太阳，我的月亮，我的星星
-##  我的光
+###  我的光
