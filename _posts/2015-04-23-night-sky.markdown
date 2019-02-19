@@ -3,7 +3,7 @@ title:  "Our 2019"
 subtitle: "Our life together"
 author: "Fei"
 avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
+image: "img/c.jpg"
 date:   2015-04-23 12:12:12
 ---
 
